@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "id": "post-job-bash",
     "name": "Post Job Bash",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "publisher": "tsvetilian",
     "public": true,
     "content": {
@@ -20,6 +20,10 @@
         "issues": {
             "uri": "https://github.com/tsvetilian-ty/PostJobBash/issues"
         }
+    },
+    "repository": {
+        "type": "git",
+        "uri": "https://github.com/tsvetilian-ty/PostJobBash"
     },
     "targets": [
         {
