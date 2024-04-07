@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="128" height="128" src="./images/extension-icon.png">
+  <img width="128" height="128" src="https://github.com/tsvetilian-ty/PostJobBash/raw/main/images/extension-icon.png">
 </p>
 
 ## Description

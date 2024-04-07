@@ -2,14 +2,30 @@
     "manifestVersion": 1,
     "id": "post-job-bash",
     "name": "Post Job Bash",
-    "version": "1.0.2",
+    "version": "1.0.4",
     "publisher": "tsvetilian",
+    "public": true,
+    "content": {
+        "details": {
+            "path": "README.md"
+        },
+        "license": {
+            "path": "LICENSE.md"
+        }
+    },
+    "links": {
+        "repository": {
+            "uri": "https://github.com/tsvetilian-ty/PostJobBash"
+        },
+        "issues": {
+            "uri": "https://github.com/tsvetilian-ty/PostJobBash/issues"
+        }
+    },
     "targets": [
         {
             "id": "Microsoft.VisualStudio.Services"
         }
     ],
-    "public": true,
     "description": "PostJobBash is a Bash@3 based task that allows you to executes bash scripts (across platforms) in the post-job phase of the job!",
     "categories": [
         "Azure Pipelines"
