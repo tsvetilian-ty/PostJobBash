@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "id": "post-job-bash",
     "name": "Post Job Bash",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "publisher": "tsvetilian",
     "public": true,
     "content": {

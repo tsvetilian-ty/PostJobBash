@@ -1,6 +1,6 @@
 {
   "name": "post-job-bash",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "PostJobBash is a Bash@3 based task that allows you to executes bash scripts (across platforms) in the post-job phase of the job!",
   "main": "bash.js",
   "scripts": {

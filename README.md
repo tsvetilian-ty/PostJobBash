@@ -7,7 +7,7 @@
 `PostJobBash` is `Bash@3` based task that allows you to executes bash scripts (across platforms) in the `post-job` phase of the job!
 
 > [!NOTE]  
-> The `PostJobBash` is based on Microsoft's `Bash@3` (https://github.com/microsoft/azure-pipelines-tasks/tree/master/Tasks/BashV3) version `3.237.0` therefor support the same APIs (https://learn.microsoft.com/en-us/azure/devops/pipelines/tasks/reference/bash-v3?view=azure-pipelines)
+> The `PostJobBash` is based on Microsoft's `Bash@3` (https://github.com/microsoft/azure-pipelines-tasks/tree/master/Tasks/BashV3) version `3.237.0` therefore supports the same APIs (https://learn.microsoft.com/en-us/azure/devops/pipelines/tasks/reference/bash-v3?view=azure-pipelines)
 
 ## Examples
 > Exiting job
