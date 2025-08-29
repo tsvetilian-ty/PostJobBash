@@ -16,10 +16,11 @@
     ],
     "author": "Tsvetiliyan Yankov",
     "version": {
-      "Major": 1,
+      "Major": 2,
       "Minor": 0,
-      "Patch": 6
+      "Patch": 0
     },
+    "releaseNotes": "Update the base to Bash@3 version 3.259.0",
     "minimumAgentVersion": "2.115.0",
     "instanceNameFormat": "Post-Job Bash Script",
     "showEnvironmentVariables": true,
@@ -108,6 +109,10 @@
         "argumentFormat": ""
       },
       "Node16": {
+        "target": "bash.js",
+        "argumentFormat": ""
+      },
+      "Node20_1": {
         "target": "bash.js",
         "argumentFormat": ""
       }
