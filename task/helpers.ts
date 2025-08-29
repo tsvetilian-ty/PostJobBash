@@ -159,7 +159,7 @@ function findEnclosingBraceIndex(input: string, targetIndex: number) {
     return 0
 }
 
-function isValidEnvName(envName: string) {
+function isValidEnvName(envName) {
     const regex = /^[a-zA-Z_][a-zA-Z0-9_]*$/;
     return regex.test(envName);
 }
